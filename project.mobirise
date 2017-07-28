@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CustomAudioEliza",
-    "currentPage": "userguide.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 69,
     "versionPublish": "4.0.17",
@@ -636,7 +636,7 @@
         }
       ]
     },
-    "userguide.html": {
+    "page2.html": {
       "settings": {
         "meta_descr": "",
         "title": "User Guide",
